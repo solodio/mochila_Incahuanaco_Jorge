@@ -1,0 +1,23 @@
+Cheatsheet Git Github
+git init : $ git init
+          Sirve para inicializar el repositorio
+git add : $ git add
+          Agrega un archivo nuevo o modificado al área de preparacion.
+git commit : $ git commit -m "texto"
+          Registra los cambios en el repositorio,confirma los cambios y los agrega al historial de cambios.
+git push : $ git push "remoto" "local" 
+           Envia los cambios del repositorio local al repositorio remoto que se especifique.
+git pull : $ git pull "remoto" "local"
+           Descarga los cambios del repositorio remoto al repositorio local.
+git log : $ git log  
+           Muestra el historial de confirmaciones de la rama actual.
+git status : $ git status
+           Muestra el estado actual del repositorio.
+git branch : $ git branch |texto|
+           Muestra todas las ramas en el repositorio actual.
+git checkout : $ git checkout |texto|
+           Cambia a la rama que se especifique,actualizando el directorio activo.
+git merge : $ git merge |texto|
+           Fusiona los cambios hechos de una rama especifica, a la rama actual.
+git clone : $ git clone 
+           descarga todos los datos de un repositorio.
