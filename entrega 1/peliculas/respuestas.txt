@@ -1,0 +1,13 @@
+
+2= $ mkdir Infantiles Accion Terror Comedia Romanticas
+3= $ touch Intenzamente.txt El_juego_del_miedo.xls Rapido_y_furioso.pdf Titanic.jpg
+4= $ mkdir Romanticas/pruebacd
+
+consigna vs Cod:
+4= $ rm Terror/Smooth_criminal.txt ; $ rm Terror/We_will_rock_you.js
+5= $ touch Accion/prueba2/no_borrar.js;
+6= $ mv Accion/prueba2 Romanticas/prueba;
+7= $ touch camada5.txt;
+8= $ mv Comedia/IT.xls Infantiles/;
+9= $ rm camada5.txt;
+10= $ rm -r Romanticas/prueba;
